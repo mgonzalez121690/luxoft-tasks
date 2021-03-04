@@ -9,7 +9,7 @@ const typeDefs = gql`
   }
 
   type Query {
-    users: [User]
+    users: //todo define return type
   }
 `;
 
